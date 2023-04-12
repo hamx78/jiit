@@ -1,2 +1,2 @@
 # jiit
-개발
+test
